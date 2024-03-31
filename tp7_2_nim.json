@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRICA3",
+			"name": "Pengalaman Pengguna"
+		},
+		{
+			"code": "CRICC1",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CRCOC1",
+			"name": "Struktur Data"
+		},
+		{
+			"code": "CRIC4C2",
+			"name": "Wirausaha"
+		},
+		{
+			"code": "CRI3C2",
+			"name": "Kewarganegaraan"
+		},
+		{
+			"code": "CRI4C1",
+			"name": "Kalkulus"
+		}
+	]
+}

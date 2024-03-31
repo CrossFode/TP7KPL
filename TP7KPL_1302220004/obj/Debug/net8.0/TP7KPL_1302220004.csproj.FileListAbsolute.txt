@@ -1,0 +1,5 @@
+C:\Users\fauzan\Desktop\KPL\TP7KPL_1302220004\TP7KPL_1302220004\obj\Debug\net8.0\TP7KPL_1302220004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzan\Desktop\KPL\TP7KPL_1302220004\TP7KPL_1302220004\obj\Debug\net8.0\TP7KPL_1302220004.AssemblyInfoInputs.cache
+C:\Users\fauzan\Desktop\KPL\TP7KPL_1302220004\TP7KPL_1302220004\obj\Debug\net8.0\TP7KPL_1302220004.AssemblyInfo.cs
+C:\Users\fauzan\Desktop\KPL\TP7KPL_1302220004\TP7KPL_1302220004\obj\Debug\net8.0\TP7KPL_1302220004.csproj.CoreCompileInputs.cache
+C:\Users\fauzan\Desktop\KPL\TP7KPL_1302220004\TP7KPL_1302220004\obj\Debug\net8.0\TP7KPL_1302220004.sourcelink.json
